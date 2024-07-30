@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Calendar, CircleCheck, MapPin, Plus, Settings2 } from "lucide-react";
+import { Calendar, MapPin, Plus, Settings2 } from "lucide-react";
 import { CreateActivityModal } from "./create-activity-modal";
 import { ImportantLinks } from "./important-links";
 import { Guests } from "./guests";
