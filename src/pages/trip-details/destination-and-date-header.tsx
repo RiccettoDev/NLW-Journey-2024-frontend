@@ -17,7 +17,7 @@ export function DestinationAndDateHeader() {
 
         <div className='w-px h-6 bg-zinc-800 p-0.5' />
 
-        <Button>
+        <Button variant="secondary">
           Alterar local/data
           <Settings2 className='size-5 text-zinc-400' />
         </Button>
